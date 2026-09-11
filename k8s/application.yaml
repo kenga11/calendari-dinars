@@ -1,0 +1,41 @@
+apiVersion: argoproj.io/v1alpha1
+kind: ApplicationSet
+metadata:
+  name: calendari-dinars-app
+  namespace: argocd
+spec:
+  goTemplate: true
+  generators:
+  - list:
+      elements:
+        - name: calendari-dinars
+  template:
+    metadata:
+      name: '{{.name}}'
+    spec:
+      project: default
+      source:
+        path: helm/homelab-application
+        repoURL: ssh://git@github.com/alemuro/argocd-homelab.git
+        targetRevision: HEAD
+        helm:
+          values: |
+            name: '{{.name}}'
+            image: ghcr.io/kenga11/calendari-dinars
+            tag: 1.0.0
+            port: 80
+            domains:
+              - menus.aleix.cloud
+            node_selector:
+              kubernetes.io/hostname: worker-1
+            imagePullSecrets:
+              - name: github-credentials
+      destination:
+        name: homelab
+        namespace: homelab
+      syncPolicy:
+        automated:
+          prune: true
+          selfHeal: true
+        syncOptions:
+          - ApplyOutOfSyncOnly=true

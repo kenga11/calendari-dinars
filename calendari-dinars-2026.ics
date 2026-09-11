@@ -1,0 +1,779 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Escola Bressol Tris Tras//Calendari Dinars 2026//CA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dinars E.B. Tris Tras 2026
+X-WR-TIMEZONE:Europe/Madrid
+X-WR-CALDESC:Menú diari de dinars de l'Escola Bressol Tris Tras
+BEGIN:VEVENT
+UID:dinar-20260907@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:🥣 Dinar: Arròs amb salseta de tomàquet + Remenat d'ous, ceba i pastanaga
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (3a Setmana - Dilluns)\n\n• Categoria: Arròs i ou\n• 1r Plat: Arròs amb salseta de tomàquet\n• 2n Plat: Remenat d'ous, ceba i pastanaga\n• Guarnició: Enciams amb remolatxa\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20260908@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:🥣 Dinar: Crema de carbassa + Dauets de gall dindi a la jardinera
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (3a Setmana - Dimarts)\n\n• Categoria: Verdura i carn\n• 1r Plat: Crema de carbassa\n• 2n Plat: Dauets de gall dindi a la jardinera\n• Guarnició: Enciams amb pastanaga\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20260909@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:🥣 Dinar: Fideus saltats amb pastanaga, ceba, pebrot verd i mongeta tendra + Formatge fresc
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (3a Setmana - Dimecres)\n\n• Categoria: Pasta i formatge\n• 1r Plat: Fideus saltats amb pastanaga, ceba, pebrot verd i mongeta tendra\n• 2n Plat: Formatge fresc\n• Guarnició: Enciams amb cogombre\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20260910@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:🥣 Dinar: Llenties amb verdures + Lluç amb hortalisses al forn
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (3a Setmana - Dijous)\n\n• Categoria: Llegum i peix\n• 1r Plat: Llenties amb verdures\n• 2n Plat: Lluç amb hortalisses al forn\n• Guarnició: Enciams amb pastanaga\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festiu-20260911@escola-bressol
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:🎉 Festiu escolar: Diada Nacional de Catalunya
+DESCRIPTION:Festiu escolar a l'escola bressol: Diada Nacional de Catalunya. No hi ha servei de menjador.
+CATEGORIES:Escola,Festiu
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20260914@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:🥣 Dinar: Arròs cremós de carbassa i ceba + Truita amb carbassó i ceba
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (4a Setmana - Dilluns)\n\n• Categoria: Arròs i ou\n• 1r Plat: Arròs cremós de carbassa i ceba\n• 2n Plat: Truita amb carbassó i ceba\n• Guarnició: Enciams amb remolatxa\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20260915@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:🥣 Dinar: Mongeta tendra, patata i ceba + Llenties vermelles estofades amb verdures
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (4a Setmana - Dimarts)\n\n• Categoria: Verdura i llegum\n• 1r Plat: Mongeta tendra, patata i ceba\n• 2n Plat: Llenties vermelles estofades amb verdures\n• Guarnició: Enciams amb pastanaga\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20260916@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:🥣 Dinar: Espaguetis saltats amb ceba i xampinyons + Formatge fresc
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (4a Setmana - Dimecres)\n\n• Categoria: Pasta i formatge\n• 1r Plat: Espaguetis saltats amb ceba i xampinyons\n• 2n Plat: Formatge fresc\n• Guarnició: Enciams amb cogombre\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20260917@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:🥣 Dinar: Cigrons amb verduretes + Bacallà amb samfaina
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (4a Setmana - Dijous)\n\n• Categoria: Llegum i peix\n• 1r Plat: Cigrons amb verduretes\n• 2n Plat: Bacallà amb samfaina\n• Guarnició: Enciams amb pastanaga\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20260918@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:🥣 Dinar: Sopa vegetal amb cabell d'àngel + Pollastre al forn amb poma a daus
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (4a Setmana - Divendres)\n\n• Categoria: Sopa i pollastre\n• 1r Plat: Sopa vegetal amb cabell d'àngel\n• 2n Plat: Pollastre al forn amb poma a daus\n• Guarnició: Enciams amb tomàquet\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20260921@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:🥣 Dinar: Arròs saltat amb ceba i mongeta tendra + Truita amb xampinyons
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (1a Setmana - Dilluns)\n\n• Categoria: Arròs i ou\n• 1r Plat: Arròs saltat amb ceba i mongeta tendra\n• 2n Plat: Truita amb xampinyons\n• Guarnició: Enciams amb remolatxa\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20260922@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:🥣 Dinar: Crema de carbassó + Fricandó de vedella
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (1a Setmana - Dimarts)\n\n• Categoria: Verdura i carn\n• 1r Plat: Crema de carbassó\n• 2n Plat: Fricandó de vedella\n• Guarnició: Enciams amb pastanaga\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20260923@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:🥣 Dinar: Espirals amb salsa de tomàquet amb pastanaga i remolatxa + Formatge fresc
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (1a Setmana - Dimecres)\n\n• Categoria: Pasta i formatge\n• 1r Plat: Espirals amb salsa de tomàquet amb pastanaga i remolatxa\n• 2n Plat: Formatge fresc\n• Guarnició: Enciams amb cogombre\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festiu-20260924@escola-bressol
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:🎉 Festiu escolar: La Mercè
+DESCRIPTION:Festiu escolar a l'escola bressol: La Mercè. No hi ha servei de menjador.
+CATEGORIES:Escola,Festiu
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20260925@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:🥣 Dinar: Brou amb galets + Bastonets de pollastre arrebossat
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (1a Setmana - Divendres)\n\n• Categoria: Sopa i pollastre\n• 1r Plat: Brou amb galets\n• 2n Plat: Bastonets de pollastre arrebossat\n• Guarnició: Enciams amb tomàquet\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20260928@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:🥣 Dinar: Arròs caldós amb all, porro i api + Truita amb patata i ceba
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (2a Setmana - Dilluns)\n\n• Categoria: Arròs i ou\n• 1r Plat: Arròs caldós amb all, porro i api\n• 2n Plat: Truita amb patata i ceba\n• Guarnició: Enciams amb remolatxa\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20260929@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:🥣 Dinar: Patata i bledes + Llenties vermelles estofades amb arròs i verdures
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (2a Setmana - Dimarts)\n\n• Categoria: Verdura i llegum\n• 1r Plat: Patata i bledes\n• 2n Plat: Llenties vermelles estofades amb arròs i verdures\n• Guarnició: Enciams amb pastanaga\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20260930@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:🥣 Dinar: Macarrons amb crema de ceba, carbassa i poma + Formatge fresc
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (2a Setmana - Dimecres)\n\n• Categoria: Pasta i formatge\n• 1r Plat: Macarrons amb crema de ceba, carbassa i poma\n• 2n Plat: Formatge fresc\n• Guarnició: Enciams amb cogombre\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261001@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:🥣 Dinar: Cigrons saltats amb ceba juliana i bastonets de pastanaga + Suquet de bacallà
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (2a Setmana - Dijous)\n\n• Categoria: Llegum i peix\n• 1r Plat: Cigrons saltats amb ceba juliana i bastonets de pastanaga\n• 2n Plat: Suquet de bacallà\n• Guarnició: Enciams amb pastanaga\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261002@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:🥣 Dinar: Sopa vegetal amb pistons + Pollastre al forn amb verdures
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (2a Setmana - Divendres)\n\n• Categoria: Sopa i pollastre\n• 1r Plat: Sopa vegetal amb pistons\n• 2n Plat: Pollastre al forn amb verdures\n• Guarnició: Enciams amb tomàquet\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261005@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:🥣 Dinar: Arròs amb salseta de tomàquet + Remenat d'ous, ceba i pastanaga
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (3a Setmana - Dilluns)\n\n• Categoria: Arròs i ou\n• 1r Plat: Arròs amb salseta de tomàquet\n• 2n Plat: Remenat d'ous, ceba i pastanaga\n• Guarnició: Enciams amb remolatxa\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261006@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:🥣 Dinar: Crema de carbassa + Dauets de gall dindi a la jardinera
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (3a Setmana - Dimarts)\n\n• Categoria: Verdura i carn\n• 1r Plat: Crema de carbassa\n• 2n Plat: Dauets de gall dindi a la jardinera\n• Guarnició: Enciams amb pastanaga\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261007@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:🥣 Dinar: Fideus saltats amb pastanaga, ceba, pebrot verd i mongeta tendra + Formatge fresc
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (3a Setmana - Dimecres)\n\n• Categoria: Pasta i formatge\n• 1r Plat: Fideus saltats amb pastanaga, ceba, pebrot verd i mongeta tendra\n• 2n Plat: Formatge fresc\n• Guarnició: Enciams amb cogombre\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261008@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:🥣 Dinar: Llenties amb verdures + Lluç amb hortalisses al forn
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (3a Setmana - Dijous)\n\n• Categoria: Llegum i peix\n• 1r Plat: Llenties amb verdures\n• 2n Plat: Lluç amb hortalisses al forn\n• Guarnició: Enciams amb pastanaga\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261009@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:🥣 Dinar: Brou amb galets + Pollastre a la planxa
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (3a Setmana - Divendres)\n\n• Categoria: Sopa i pollastre\n• 1r Plat: Brou amb galets\n• 2n Plat: Pollastre a la planxa\n• Guarnició: Enciams amb tomàquet\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festiu-20261012@escola-bressol
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:🎉 Festiu escolar: Festa Nacional d'Espanya
+DESCRIPTION:Festiu escolar a l'escola bressol: Festa Nacional d'Espanya. No hi ha servei de menjador.
+CATEGORIES:Escola,Festiu
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261013@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:🥣 Dinar: Mongeta tendra, patata i ceba + Llenties vermelles estofades amb verdures
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (4a Setmana - Dimarts)\n\n• Categoria: Verdura i llegum\n• 1r Plat: Mongeta tendra, patata i ceba\n• 2n Plat: Llenties vermelles estofades amb verdures\n• Guarnició: Enciams amb pastanaga\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261014@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:🥣 Dinar: Espaguetis saltats amb ceba i xampinyons + Formatge fresc
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (4a Setmana - Dimecres)\n\n• Categoria: Pasta i formatge\n• 1r Plat: Espaguetis saltats amb ceba i xampinyons\n• 2n Plat: Formatge fresc\n• Guarnició: Enciams amb cogombre\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261015@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:🥣 Dinar: Cigrons amb verduretes + Bacallà amb samfaina
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (4a Setmana - Dijous)\n\n• Categoria: Llegum i peix\n• 1r Plat: Cigrons amb verduretes\n• 2n Plat: Bacallà amb samfaina\n• Guarnició: Enciams amb pastanaga\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261016@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:🥣 Dinar: Sopa vegetal amb cabell d'àngel + Pollastre al forn amb poma a daus
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (4a Setmana - Divendres)\n\n• Categoria: Sopa i pollastre\n• 1r Plat: Sopa vegetal amb cabell d'àngel\n• 2n Plat: Pollastre al forn amb poma a daus\n• Guarnició: Enciams amb tomàquet\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261019@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:🥣 Dinar: Arròs saltat amb ceba i mongeta tendra + Truita amb xampinyons
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (1a Setmana - Dilluns)\n\n• Categoria: Arròs i ou\n• 1r Plat: Arròs saltat amb ceba i mongeta tendra\n• 2n Plat: Truita amb xampinyons\n• Guarnició: Enciams amb remolatxa\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261020@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:🥣 Dinar: Crema de carbassó + Fricandó de vedella
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (1a Setmana - Dimarts)\n\n• Categoria: Verdura i carn\n• 1r Plat: Crema de carbassó\n• 2n Plat: Fricandó de vedella\n• Guarnició: Enciams amb pastanaga\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261021@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:🥣 Dinar: Espirals amb salsa de tomàquet amb pastanaga i remolatxa + Formatge fresc
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (1a Setmana - Dimecres)\n\n• Categoria: Pasta i formatge\n• 1r Plat: Espirals amb salsa de tomàquet amb pastanaga i remolatxa\n• 2n Plat: Formatge fresc\n• Guarnició: Enciams amb cogombre\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261022@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:🥣 Dinar: Llenties amb verdures + Lluç amb hortalisses al forn
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (1a Setmana - Dijous)\n\n• Categoria: Llegum i peix\n• 1r Plat: Llenties amb verdures\n• 2n Plat: Lluç amb hortalisses al forn\n• Guarnició: Enciams amb pastanaga\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261023@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:🥣 Dinar: Brou amb galets + Bastonets de pollastre arrebossat
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (1a Setmana - Divendres)\n\n• Categoria: Sopa i pollastre\n• 1r Plat: Brou amb galets\n• 2n Plat: Bastonets de pollastre arrebossat\n• Guarnició: Enciams amb tomàquet\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261026@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:🥣 Dinar: Arròs caldós amb all, porro i api + Truita amb patata i ceba
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (2a Setmana - Dilluns)\n\n• Categoria: Arròs i ou\n• 1r Plat: Arròs caldós amb all, porro i api\n• 2n Plat: Truita amb patata i ceba\n• Guarnició: Enciams amb remolatxa\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261027@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:🥣 Dinar: Patata i bledes + Llenties vermelles estofades amb arròs i verdures
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (2a Setmana - Dimarts)\n\n• Categoria: Verdura i llegum\n• 1r Plat: Patata i bledes\n• 2n Plat: Llenties vermelles estofades amb arròs i verdures\n• Guarnició: Enciams amb pastanaga\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261028@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:🥣 Dinar: Macarrons amb crema de ceba, carbassa i poma + Formatge fresc
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (2a Setmana - Dimecres)\n\n• Categoria: Pasta i formatge\n• 1r Plat: Macarrons amb crema de ceba, carbassa i poma\n• 2n Plat: Formatge fresc\n• Guarnició: Enciams amb cogombre\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261029@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:🥣 Dinar: Cigrons saltats amb ceba juliana i bastonets de pastanaga + Suquet de bacallà
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (2a Setmana - Dijous)\n\n• Categoria: Llegum i peix\n• 1r Plat: Cigrons saltats amb ceba juliana i bastonets de pastanaga\n• 2n Plat: Suquet de bacallà\n• Guarnició: Enciams amb pastanaga\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261030@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:🥣 Dinar: Sopa vegetal amb pistons + Pollastre al forn amb verdures
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (2a Setmana - Divendres)\n\n• Categoria: Sopa i pollastre\n• 1r Plat: Sopa vegetal amb pistons\n• 2n Plat: Pollastre al forn amb verdures\n• Guarnició: Enciams amb tomàquet\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261102@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:🥣 Dinar: Arròs amb salseta de tomàquet + Remenat d'ous, ceba i pastanaga
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (3a Setmana - Dilluns)\n\n• Categoria: Arròs i ou\n• 1r Plat: Arròs amb salseta de tomàquet\n• 2n Plat: Remenat d'ous, ceba i pastanaga\n• Guarnició: Enciams amb remolatxa\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261103@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:🥣 Dinar: Crema de carbassa + Dauets de gall dindi a la jardinera
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (3a Setmana - Dimarts)\n\n• Categoria: Verdura i carn\n• 1r Plat: Crema de carbassa\n• 2n Plat: Dauets de gall dindi a la jardinera\n• Guarnició: Enciams amb pastanaga\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261104@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:🥣 Dinar: Fideus saltats amb pastanaga, ceba, pebrot verd i mongeta tendra + Formatge fresc
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (3a Setmana - Dimecres)\n\n• Categoria: Pasta i formatge\n• 1r Plat: Fideus saltats amb pastanaga, ceba, pebrot verd i mongeta tendra\n• 2n Plat: Formatge fresc\n• Guarnició: Enciams amb cogombre\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261105@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:🥣 Dinar: Llenties amb verdures + Lluç amb hortalisses al forn
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (3a Setmana - Dijous)\n\n• Categoria: Llegum i peix\n• 1r Plat: Llenties amb verdures\n• 2n Plat: Lluç amb hortalisses al forn\n• Guarnició: Enciams amb pastanaga\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261106@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:🥣 Dinar: Brou amb galets + Pollastre a la planxa
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (3a Setmana - Divendres)\n\n• Categoria: Sopa i pollastre\n• 1r Plat: Brou amb galets\n• 2n Plat: Pollastre a la planxa\n• Guarnició: Enciams amb tomàquet\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261109@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:🥣 Dinar: Arròs cremós de carbassa i ceba + Truita amb carbassó i ceba
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (4a Setmana - Dilluns)\n\n• Categoria: Arròs i ou\n• 1r Plat: Arròs cremós de carbassa i ceba\n• 2n Plat: Truita amb carbassó i ceba\n• Guarnició: Enciams amb remolatxa\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261110@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:🥣 Dinar: Mongeta tendra, patata i ceba + Llenties vermelles estofades amb verdures
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (4a Setmana - Dimarts)\n\n• Categoria: Verdura i llegum\n• 1r Plat: Mongeta tendra, patata i ceba\n• 2n Plat: Llenties vermelles estofades amb verdures\n• Guarnició: Enciams amb pastanaga\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261111@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:🥣 Dinar: Espaguetis saltats amb ceba i xampinyons + Formatge fresc
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (4a Setmana - Dimecres)\n\n• Categoria: Pasta i formatge\n• 1r Plat: Espaguetis saltats amb ceba i xampinyons\n• 2n Plat: Formatge fresc\n• Guarnició: Enciams amb cogombre\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261112@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:🥣 Dinar: Cigrons amb verduretes + Bacallà amb samfaina
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (4a Setmana - Dijous)\n\n• Categoria: Llegum i peix\n• 1r Plat: Cigrons amb verduretes\n• 2n Plat: Bacallà amb samfaina\n• Guarnició: Enciams amb pastanaga\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261113@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:🥣 Dinar: Sopa vegetal amb cabell d'àngel + Pollastre al forn amb poma a daus
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (4a Setmana - Divendres)\n\n• Categoria: Sopa i pollastre\n• 1r Plat: Sopa vegetal amb cabell d'àngel\n• 2n Plat: Pollastre al forn amb poma a daus\n• Guarnició: Enciams amb tomàquet\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261116@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:🥣 Dinar: Arròs saltat amb ceba i mongeta tendra + Truita amb xampinyons
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (1a Setmana - Dilluns)\n\n• Categoria: Arròs i ou\n• 1r Plat: Arròs saltat amb ceba i mongeta tendra\n• 2n Plat: Truita amb xampinyons\n• Guarnició: Enciams amb remolatxa\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261117@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:🥣 Dinar: Crema de carbassó + Fricandó de vedella
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (1a Setmana - Dimarts)\n\n• Categoria: Verdura i carn\n• 1r Plat: Crema de carbassó\n• 2n Plat: Fricandó de vedella\n• Guarnició: Enciams amb pastanaga\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261118@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:🥣 Dinar: Espirals amb salsa de tomàquet amb pastanaga i remolatxa + Formatge fresc
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (1a Setmana - Dimecres)\n\n• Categoria: Pasta i formatge\n• 1r Plat: Espirals amb salsa de tomàquet amb pastanaga i remolatxa\n• 2n Plat: Formatge fresc\n• Guarnició: Enciams amb cogombre\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261119@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:🥣 Dinar: Llenties amb verdures + Lluç amb hortalisses al forn
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (1a Setmana - Dijous)\n\n• Categoria: Llegum i peix\n• 1r Plat: Llenties amb verdures\n• 2n Plat: Lluç amb hortalisses al forn\n• Guarnició: Enciams amb pastanaga\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261120@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:🥣 Dinar: Brou amb galets + Bastonets de pollastre arrebossat
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (1a Setmana - Divendres)\n\n• Categoria: Sopa i pollastre\n• 1r Plat: Brou amb galets\n• 2n Plat: Bastonets de pollastre arrebossat\n• Guarnició: Enciams amb tomàquet\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261123@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:🥣 Dinar: Arròs caldós amb all, porro i api + Truita amb patata i ceba
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (2a Setmana - Dilluns)\n\n• Categoria: Arròs i ou\n• 1r Plat: Arròs caldós amb all, porro i api\n• 2n Plat: Truita amb patata i ceba\n• Guarnició: Enciams amb remolatxa\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261124@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:🥣 Dinar: Patata i bledes + Llenties vermelles estofades amb arròs i verdures
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (2a Setmana - Dimarts)\n\n• Categoria: Verdura i llegum\n• 1r Plat: Patata i bledes\n• 2n Plat: Llenties vermelles estofades amb arròs i verdures\n• Guarnició: Enciams amb pastanaga\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261125@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:🥣 Dinar: Macarrons amb crema de ceba, carbassa i poma + Formatge fresc
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (2a Setmana - Dimecres)\n\n• Categoria: Pasta i formatge\n• 1r Plat: Macarrons amb crema de ceba, carbassa i poma\n• 2n Plat: Formatge fresc\n• Guarnició: Enciams amb cogombre\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261126@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:🥣 Dinar: Cigrons saltats amb ceba juliana i bastonets de pastanaga + Suquet de bacallà
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (2a Setmana - Dijous)\n\n• Categoria: Llegum i peix\n• 1r Plat: Cigrons saltats amb ceba juliana i bastonets de pastanaga\n• 2n Plat: Suquet de bacallà\n• Guarnició: Enciams amb pastanaga\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261127@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:🥣 Dinar: Sopa vegetal amb pistons + Pollastre al forn amb verdures
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (2a Setmana - Divendres)\n\n• Categoria: Sopa i pollastre\n• 1r Plat: Sopa vegetal amb pistons\n• 2n Plat: Pollastre al forn amb verdures\n• Guarnició: Enciams amb tomàquet\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261130@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:🥣 Dinar: Arròs amb salseta de tomàquet + Remenat d'ous, ceba i pastanaga
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (3a Setmana - Dilluns)\n\n• Categoria: Arròs i ou\n• 1r Plat: Arròs amb salseta de tomàquet\n• 2n Plat: Remenat d'ous, ceba i pastanaga\n• Guarnició: Enciams amb remolatxa\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261201@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:🥣 Dinar: Crema de carbassa + Dauets de gall dindi a la jardinera
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (3a Setmana - Dimarts)\n\n• Categoria: Verdura i carn\n• 1r Plat: Crema de carbassa\n• 2n Plat: Dauets de gall dindi a la jardinera\n• Guarnició: Enciams amb pastanaga\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261202@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:🥣 Dinar: Fideus saltats amb pastanaga, ceba, pebrot verd i mongeta tendra + Formatge fresc
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (3a Setmana - Dimecres)\n\n• Categoria: Pasta i formatge\n• 1r Plat: Fideus saltats amb pastanaga, ceba, pebrot verd i mongeta tendra\n• 2n Plat: Formatge fresc\n• Guarnició: Enciams amb cogombre\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261203@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:🥣 Dinar: Llenties amb verdures + Lluç amb hortalisses al forn
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (3a Setmana - Dijous)\n\n• Categoria: Llegum i peix\n• 1r Plat: Llenties amb verdures\n• 2n Plat: Lluç amb hortalisses al forn\n• Guarnició: Enciams amb pastanaga\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261204@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:🥣 Dinar: Brou amb galets + Pollastre a la planxa
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (3a Setmana - Divendres)\n\n• Categoria: Sopa i pollastre\n• 1r Plat: Brou amb galets\n• 2n Plat: Pollastre a la planxa\n• Guarnició: Enciams amb tomàquet\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261207@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:🥣 Dinar: Arròs cremós de carbassa i ceba + Truita amb carbassó i ceba
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (4a Setmana - Dilluns)\n\n• Categoria: Arròs i ou\n• 1r Plat: Arròs cremós de carbassa i ceba\n• 2n Plat: Truita amb carbassó i ceba\n• Guarnició: Enciams amb remolatxa\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festiu-20261208@escola-bressol
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:🎉 Festiu escolar: La Puríssima
+DESCRIPTION:Festiu escolar a l'escola bressol: La Puríssima. No hi ha servei de menjador.
+CATEGORIES:Escola,Festiu
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261209@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:🥣 Dinar: Espaguetis saltats amb ceba i xampinyons + Formatge fresc
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (4a Setmana - Dimecres)\n\n• Categoria: Pasta i formatge\n• 1r Plat: Espaguetis saltats amb ceba i xampinyons\n• 2n Plat: Formatge fresc\n• Guarnició: Enciams amb cogombre\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261210@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:🥣 Dinar: Cigrons amb verduretes + Bacallà amb samfaina
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (4a Setmana - Dijous)\n\n• Categoria: Llegum i peix\n• 1r Plat: Cigrons amb verduretes\n• 2n Plat: Bacallà amb samfaina\n• Guarnició: Enciams amb pastanaga\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261211@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:🥣 Dinar: Sopa vegetal amb cabell d'àngel + Pollastre al forn amb poma a daus
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (4a Setmana - Divendres)\n\n• Categoria: Sopa i pollastre\n• 1r Plat: Sopa vegetal amb cabell d'àngel\n• 2n Plat: Pollastre al forn amb poma a daus\n• Guarnició: Enciams amb tomàquet\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261214@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:🥣 Dinar: Arròs saltat amb ceba i mongeta tendra + Truita amb xampinyons
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (1a Setmana - Dilluns)\n\n• Categoria: Arròs i ou\n• 1r Plat: Arròs saltat amb ceba i mongeta tendra\n• 2n Plat: Truita amb xampinyons\n• Guarnició: Enciams amb remolatxa\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261215@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:🥣 Dinar: Crema de carbassó + Fricandó de vedella
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (1a Setmana - Dimarts)\n\n• Categoria: Verdura i carn\n• 1r Plat: Crema de carbassó\n• 2n Plat: Fricandó de vedella\n• Guarnició: Enciams amb pastanaga\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261216@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:🥣 Dinar: Espirals amb salsa de tomàquet amb pastanaga i remolatxa + Formatge fresc
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (1a Setmana - Dimecres)\n\n• Categoria: Pasta i formatge\n• 1r Plat: Espirals amb salsa de tomàquet amb pastanaga i remolatxa\n• 2n Plat: Formatge fresc\n• Guarnició: Enciams amb cogombre\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261217@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:🥣 Dinar: Llenties amb verdures + Lluç amb hortalisses al forn
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (1a Setmana - Dijous)\n\n• Categoria: Llegum i peix\n• 1r Plat: Llenties amb verdures\n• 2n Plat: Lluç amb hortalisses al forn\n• Guarnició: Enciams amb pastanaga\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261218@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:🥣 Dinar: Brou amb galets + Bastonets de pollastre arrebossat
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (1a Setmana - Divendres)\n\n• Categoria: Sopa i pollastre\n• 1r Plat: Brou amb galets\n• 2n Plat: Bastonets de pollastre arrebossat\n• Guarnició: Enciams amb tomàquet\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dinar-20261221@escola-bressol-tristras
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:🥣 Dinar: Arròs caldós amb all, porro i api + Truita amb patata i ceba
+DESCRIPTION:DINAR ESCOLA BRESSOL TRIS TRAS (2a Setmana - Dilluns)\n\n• Categoria: Arròs i ou\n• 1r Plat: Arròs caldós amb all, porro i api\n• 2n Plat: Truita amb patata i ceba\n• Guarnició: Enciams amb remolatxa\n• Postres: Fruita de temporada\n\nMenú Estiu + 1 Anys · E.B. Tris Tras
+CATEGORIES:Escola,Dinar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:festiu-20261222@escola-bressol
+DTSTAMP:20260909T100000Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:🎉 Festiu escolar: Inici vacances escolars de Nadal
+DESCRIPTION:Festiu escolar a l'escola bressol: Inici vacances escolars de Nadal. No hi ha servei de menjador.
+CATEGORIES:Escola,Festiu
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

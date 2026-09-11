@@ -1,0 +1,48 @@
+{
+  "any": 2026,
+  "escola": "Escola Bressol Tris Tras",
+  "trimestre": "1r Trimestre (Setembre - Desembre 2026)",
+  "periodes_confirmats": {
+    "inici": "2026-09-07",
+    "fi": "2026-12-22"
+  },
+  "anchor": {
+    "dilluns_referencia": "2026-09-07",
+    "setmana_referencia": 3
+  },
+  "calendari_oficial_curs": [
+    { "inici": "2026-09-07", "fi": "2026-09-13", "etiqueta": "07-13 SETEMBRE", "setmana": 3, "nota": "Inici de curs" },
+    { "inici": "2026-09-14", "fi": "2026-09-20", "etiqueta": "14-20 SETEMBRE", "setmana": 4 },
+    { "inici": "2026-09-21", "fi": "2026-09-27", "etiqueta": "21-27 SETEMBRE", "setmana": 1 },
+    { "inici": "2026-09-28", "fi": "2026-10-04", "etiqueta": "28 SETEMBRE-04 OCTUBRE", "setmana": 2 },
+    { "inici": "2026-10-05", "fi": "2026-10-11", "etiqueta": "05-11 OCTUBRE", "setmana": 3 },
+    { "inici": "2026-10-12", "fi": "2026-10-18", "etiqueta": "12-18 OCTUBRE", "setmana": 4 },
+    { "inici": "2026-10-19", "fi": "2026-10-25", "etiqueta": "19-25 OCTUBRE", "setmana": 1 },
+    { "inici": "2026-10-26", "fi": "2026-11-01", "etiqueta": "26 OCTUBRE- 01 NOVEMBRE", "setmana": 2 },
+    { "inici": "2026-11-02", "fi": "2026-11-08", "etiqueta": "02-08 NOVEMBRE", "setmana": 3 },
+    { "inici": "2026-11-09", "fi": "2026-11-15", "etiqueta": "09-15 NOVEMBRE", "setmana": 4 },
+    { "inici": "2026-11-16", "fi": "2026-11-22", "etiqueta": "16-22 NOVEMBRE", "setmana": 1 },
+    { "inici": "2026-11-23", "fi": "2026-11-29", "etiqueta": "23-29 NOVEMBRE", "setmana": 2 },
+    { "inici": "2026-11-30", "fi": "2026-12-06", "etiqueta": "30 NOVEMBRE-06 DESEMBRE", "setmana": 3 },
+    { "inici": "2026-12-07", "fi": "2026-12-13", "etiqueta": "07-13 DESEMBRE", "setmana": 4 },
+    { "inici": "2026-12-14", "fi": "2026-12-20", "etiqueta": "14-20 DESEMBRE", "setmana": 1 },
+    { "inici": "2026-12-21", "fi": "2026-12-27", "etiqueta": "21 DESEMBRE", "setmana": 2, "nota": "Últim dia abans de Nadal" }
+  ],
+  "festius": {
+    "2026-09-11": "Diada Nacional de Catalunya",
+    "2026-09-24": "La Mercè",
+    "2026-10-12": "Festa Nacional d'Espanya",
+    "2026-11-01": "Tots Sants",
+    "2026-12-06": "Dia de la Constitució",
+    "2026-12-08": "La Puríssima",
+    "2026-12-22": "Inici vacances escolars de Nadal",
+    "2026-12-23": "Vacances de Nadal",
+    "2026-12-24": "Vacances de Nadal",
+    "2026-12-25": "Nadal",
+    "2026-12-26": "Sant Esteve",
+    "2026-12-28": "Vacances de Nadal",
+    "2026-12-29": "Vacances de Nadal",
+    "2026-12-30": "Vacances de Nadal",
+    "2026-12-31": "Vacances de Nadal"
+  }
+}

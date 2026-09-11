@@ -1,0 +1,213 @@
+{
+  "titol": "Menú Estiu + 1 Anys",
+  "escola": "Escola Bressol Tris Tras",
+  "categories_dies": {
+    "dilluns": { "nom": "Arròs i ou", "icona": "🍚🥚", "color": "#f59e0b" },
+    "dimarts": { "nom": "Verdura i carn / llegum", "icona": "🥦🥩", "color": "#10b981" },
+    "dimecres": { "nom": "Pasta i formatge", "icona": "🍝🧀", "color": "#eab308" },
+    "dijous": { "nom": "Llegum i peix", "icona": "🫘🐟", "color": "#06b6d4" },
+    "divendres": { "nom": "Sopa i pollastre", "icona": "🥣🍗", "color": "#f97316" }
+  },
+  "setmanes": {
+    "1": {
+      "nom": "1a setmana",
+      "dies": {
+        "dilluns": {
+          "dia_nom": "Dilluns",
+          "categoria": "Arròs i ou",
+          "primer": "Arròs saltat amb ceba i mongeta tendra",
+          "segon": "Truita amb xampinyons",
+          "guarnicio": "Enciams amb remolatxa",
+          "postres": "Fruita de temporada",
+          "tags": ["arròs", "ou", "truita", "xampinyons", "verdura"]
+        },
+        "dimarts": {
+          "dia_nom": "Dimarts",
+          "categoria": "Verdura i carn",
+          "primer": "Crema de carbassó",
+          "segon": "Fricandó de vedella",
+          "guarnicio": "Enciams amb pastanaga",
+          "postres": "Fruita de temporada",
+          "tags": ["crema", "carbassó", "verdura", "carn", "vedella", "fricandó"]
+        },
+        "dimecres": {
+          "dia_nom": "Dimecres",
+          "categoria": "Pasta i formatge",
+          "primer": "Espirals amb salsa de tomàquet amb pastanaga i remolatxa",
+          "segon": "Formatge fresc",
+          "guarnicio": "Enciams amb cogombre",
+          "postres": "Fruita de temporada",
+          "tags": ["pasta", "espirals", "tomàquet", "formatge", "formatge fresc"]
+        },
+        "dijous": {
+          "dia_nom": "Dijous",
+          "categoria": "Llegum i peix",
+          "primer": "Llenties amb verdures",
+          "segon": "Lluç amb hortalisses al forn",
+          "guarnicio": "Enciams amb pastanaga",
+          "postres": "Fruita de temporada",
+          "tags": ["llegum", "llenties", "peix", "lluç", "verdura"]
+        },
+        "divendres": {
+          "dia_nom": "Divendres",
+          "categoria": "Sopa i pollastre",
+          "primer": "Brou amb galets",
+          "segon": "Bastonets de pollastre arrebossat",
+          "guarnicio": "Enciams amb tomàquet",
+          "postres": "Fruita de temporada",
+          "tags": ["sopa", "brou", "galets", "pollastre", "arrebossat", "carn"]
+        }
+      }
+    },
+    "2": {
+      "nom": "2a setmana",
+      "dies": {
+        "dilluns": {
+          "dia_nom": "Dilluns",
+          "categoria": "Arròs i ou",
+          "primer": "Arròs caldós amb all, porro i api",
+          "segon": "Truita amb patata i ceba",
+          "guarnicio": "Enciams amb remolatxa",
+          "postres": "Fruita de temporada",
+          "tags": ["arròs", "caldós", "ou", "truita", "patata"]
+        },
+        "dimarts": {
+          "dia_nom": "Dimarts",
+          "categoria": "Verdura i llegum",
+          "primer": "Patata i bledes",
+          "segon": "Llenties vermelles estofades amb arròs i verdures",
+          "guarnicio": "Enciams amb pastanaga",
+          "postres": "Fruita de temporada",
+          "tags": ["patata", "bledes", "verdura", "llegum", "llenties", "arròs"]
+        },
+        "dimecres": {
+          "dia_nom": "Dimecres",
+          "categoria": "Pasta i formatge",
+          "primer": "Macarrons amb crema de ceba, carbassa i poma",
+          "segon": "Formatge fresc",
+          "guarnicio": "Enciams amb cogombre",
+          "postres": "Fruita de temporada",
+          "tags": ["pasta", "macarrons", "carbassa", "poma", "formatge", "formatge fresc"]
+        },
+        "dijous": {
+          "dia_nom": "Dijous",
+          "categoria": "Llegum i peix",
+          "primer": "Cigrons saltats amb ceba juliana i bastonets de pastanaga",
+          "segon": "Suquet de bacallà",
+          "guarnicio": "Enciams amb pastanaga",
+          "postres": "Fruita de temporada",
+          "tags": ["llegum", "cigrons", "peix", "bacallà", "suquet"]
+        },
+        "divendres": {
+          "dia_nom": "Divendres",
+          "categoria": "Sopa i pollastre",
+          "primer": "Sopa vegetal amb pistons",
+          "segon": "Pollastre al forn amb verdures",
+          "guarnicio": "Enciams amb tomàquet",
+          "postres": "Fruita de temporada",
+          "tags": ["sopa", "pistons", "verdura", "pollastre", "carn", "forn"]
+        }
+      }
+    },
+    "3": {
+      "nom": "3a setmana",
+      "dies": {
+        "dilluns": {
+          "dia_nom": "Dilluns",
+          "categoria": "Arròs i ou",
+          "primer": "Arròs amb salseta de tomàquet",
+          "segon": "Remenat d'ous, ceba i pastanaga",
+          "guarnicio": "Enciams amb remolatxa",
+          "postres": "Fruita de temporada",
+          "tags": ["arròs", "tomàquet", "ou", "remenat"]
+        },
+        "dimarts": {
+          "dia_nom": "Dimarts",
+          "categoria": "Verdura i carn",
+          "primer": "Crema de carbassa",
+          "segon": "Dauets de gall dindi a la jardinera",
+          "guarnicio": "Enciams amb pastanaga",
+          "postres": "Fruita de temporada",
+          "tags": ["crema", "carbassa", "carn", "gall dindi", "jardinera"]
+        },
+        "dimecres": {
+          "dia_nom": "Dimecres",
+          "categoria": "Pasta i formatge",
+          "primer": "Fideus saltats amb pastanaga, ceba, pebrot verd i mongeta tendra",
+          "segon": "Formatge fresc",
+          "guarnicio": "Enciams amb cogombre",
+          "postres": "Fruita de temporada",
+          "tags": ["pasta", "fideus", "verdura", "formatge", "formatge fresc"]
+        },
+        "dijous": {
+          "dia_nom": "Dijous",
+          "categoria": "Llegum i peix",
+          "primer": "Llenties amb verdures",
+          "segon": "Lluç amb hortalisses al forn",
+          "guarnicio": "Enciams amb pastanaga",
+          "postres": "Fruita de temporada",
+          "tags": ["llegum", "llenties", "peix", "lluç", "verdura"]
+        },
+        "divendres": {
+          "dia_nom": "Divendres",
+          "categoria": "Sopa i pollastre",
+          "primer": "Brou amb galets",
+          "segon": "Pollastre a la planxa",
+          "guarnicio": "Enciams amb tomàquet",
+          "postres": "Fruita de temporada",
+          "tags": ["sopa", "brou", "galets", "pollastre", "carn", "planxa"]
+        }
+      }
+    },
+    "4": {
+      "nom": "4a setmana",
+      "dies": {
+        "dilluns": {
+          "dia_nom": "Dilluns",
+          "categoria": "Arròs i ou",
+          "primer": "Arròs cremós de carbassa i ceba",
+          "segon": "Truita amb carbassó i ceba",
+          "guarnicio": "Enciams amb remolatxa",
+          "postres": "Fruita de temporada",
+          "tags": ["arròs", "carbassa", "ou", "truita", "carbassó"]
+        },
+        "dimarts": {
+          "dia_nom": "Dimarts",
+          "categoria": "Verdura i llegum",
+          "primer": "Mongeta tendra, patata i ceba",
+          "segon": "Llenties vermelles estofades amb verdures",
+          "guarnicio": "Enciams amb pastanaga",
+          "postres": "Fruita de temporada",
+          "tags": ["mongeta tendra", "patata", "verdura", "llegum", "llenties"]
+        },
+        "dimecres": {
+          "dia_nom": "Dimecres",
+          "categoria": "Pasta i formatge",
+          "primer": "Espaguetis saltats amb ceba i xampinyons",
+          "segon": "Formatge fresc",
+          "guarnicio": "Enciams amb cogombre",
+          "postres": "Fruita de temporada",
+          "tags": ["pasta", "espaguetis", "xampinyons", "formatge", "formatge fresc"]
+        },
+        "dijous": {
+          "dia_nom": "Dijous",
+          "categoria": "Llegum i peix",
+          "primer": "Cigrons amb verduretes",
+          "segon": "Bacallà amb samfaina",
+          "guarnicio": "Enciams amb pastanaga",
+          "postres": "Fruita de temporada",
+          "tags": ["llegum", "cigrons", "peix", "bacallà", "samfaina"]
+        },
+        "divendres": {
+          "dia_nom": "Divendres",
+          "categoria": "Sopa i pollastre",
+          "primer": "Sopa vegetal amb cabell d'àngel",
+          "segon": "Pollastre al forn amb poma a daus",
+          "guarnicio": "Enciams amb tomàquet",
+          "postres": "Fruita de temporada",
+          "tags": ["sopa", "cabell d'àngel", "pollastre", "poma", "carn", "forn"]
+        }
+      }
+    }
+  }
+}
