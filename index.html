@@ -109,17 +109,48 @@
       margin-top: 3px;
     }
 
-    .header-actions {
+    .weekend-banner {
+      background: #f0f9ff;
+      border: 1px solid #bae6fd;
+      color: #0369a1;
+      padding: 10px 16px;
+      border-radius: var(--radius-md);
+      font-size: 0.88rem;
+      font-weight: 500;
+      margin-bottom: 16px;
       display: flex;
-      flex-wrap: wrap;
       align-items: center;
       gap: 8px;
     }
 
-    .header-actions .btn {
-      padding: 6px 12px;
-      font-size: 0.8rem;
-      border-radius: 6px;
+    .badge-proper {
+      background: #0284c7;
+      color: white;
+      font-size: 0.65rem;
+      font-weight: 800;
+      padding: 2px 7px;
+      border-radius: 9999px;
+      letter-spacing: 0.5px;
+      display: inline-flex;
+      align-items: center;
+      gap: 3px;
+      box-shadow: 0 2px 4px rgba(2, 132, 199, 0.25);
+    }
+
+    .mobile-day-pill.is-next-pill:not(.is-today-pill)::before {
+      content: "PROPER";
+      position: absolute;
+      top: -7px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: #0284c7;
+      color: white;
+      font-size: 0.50rem;
+      font-weight: 800;
+      padding: 1px 4px;
+      border-radius: 4px;
+      letter-spacing: 0.3px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.15);
     }
 
     .btn:disabled {
@@ -781,7 +812,7 @@
         background: white;
         padding: 0;
       }
-      header, .header-actions, .tabs-nav, .week-nav-bar, .month-nav-bar, .month-all-weeks-toggle, .btn, .nav-pill-btn {
+      header, .weekend-banner, .tabs-nav, .week-nav-bar, .month-nav-bar, .month-all-weeks-toggle, .btn, .nav-pill-btn {
         display: none !important;
       }
       .day-column.is-today {
@@ -807,16 +838,12 @@
     <div class="header-info">
       <h1>👶 Calendari de Dinars · Escola Bressol Tris Tras</h1>
       <p>Menú Estiu (+1 anys) · Curs 2026</p>
-    </div>
-    <div class="header-actions">
-      <a href="calendari-dinars-2026.ics" download="calendari-dinars-2026.ics" class="btn btn-primary" title="Descarregar fitxer per a Google Calendar o Samsung Calendar">
-        📥 Descarregar (.ICS)
-      </a>
-      <button onclick="window.print()" class="btn btn-outline" title="Imprimir per a la nevera">
-        🖨️ Imprimir
-      </button>
-    </div>
   </header>
+
+  <!-- Avís de cap de setmana si escau -->
+  <div id="weekendNotice" class="weekend-banner" style="display: none;">
+    🏖️ <strong>Cap de setmana:</strong> No hi ha servei de menjador dissabtes ni diumenges. Et mostrem el menú del proper dia disponible.
+  </div>
 
   <!-- Navegació de Vistes (Setmanal i Mensual) -->
   <div class="tabs-nav">
@@ -1112,6 +1139,26 @@ function getMonday(d) {
   return date;
 }
 
+// Funció per trobar el següent dia amb menú disponible (dilluns a divendres lectiu)
+function getNextAvailableMenuDate(from) {
+  const date = new Date(from);
+  date.setHours(0, 0, 0, 0);
+
+  while (true) {
+    const day = date.getDay();
+    const dateStr = formatISODate(date);
+    const isWeekend = (day === 0 || day === 6);
+    const isFestiu = !!FESTIUS_2026[dateStr];
+
+    if (!isWeekend && !isFestiu) {
+      break;
+    }
+    date.setDate(date.getDate() + 1);
+    if (date > MAX_DATE) break;
+  }
+  return date;
+}
+
 function getTodayDate() {
   const now = new Date();
   if (now >= MIN_DATE && now <= MAX_DATE) {
@@ -1121,8 +1168,12 @@ function getTodayDate() {
 }
 const TODAY_DATE = getTodayDate();
 
+// Si avui és cap de setmana (dissabte o diumenge), mostrem el proper dia amb menú disponible
+const IS_WEEKEND_TODAY = (TODAY_DATE.getDay() === 0 || TODAY_DATE.getDay() === 6);
+const EFFECTIVE_DATE = IS_WEEKEND_TODAY ? getNextAvailableMenuDate(TODAY_DATE) : new Date(TODAY_DATE);
+
 // Estat global
-let currentDate = new Date(TODAY_DATE);
+let currentDate = new Date(EFFECTIVE_DATE);
 let currentWeekMonday = getMonday(currentDate);
 let currentCalendarMonth = currentDate.getMonth();
 let currentCalendarYear = 2026;
@@ -1193,10 +1244,11 @@ function renderWeekView() {
     const cat = MENU_DATA.categories_dies[diaClau];
     const isSelected = (dayStr === selectedStr);
     const isToday = (dayStr === todayStr);
+    const isNextOnWeekend = (IS_WEEKEND_TODAY && dayStr === formatISODate(EFFECTIVE_DATE));
 
     // Píndola per a mòbil
     const pill = document.createElement('div');
-    pill.className = `mobile-day-pill ${isSelected ? 'active' : ''} ${isToday ? 'is-today-pill' : ''}`;
+    pill.className = `mobile-day-pill ${isSelected ? 'active' : ''} ${isToday ? 'is-today-pill' : ''} ${isNextOnWeekend && !isToday ? 'is-next-pill' : ''}`;
     pill.innerHTML = `
       <span>${dayNamesShort[i - 1]}</span>
       <span class="num">${dayDate.getDate()}</span>
@@ -1264,7 +1316,7 @@ function renderWeekView() {
         <div>
           <div style="display:flex; align-items:center; gap:6px; flex-wrap:wrap;">
             <h3>${['Dilluns', 'Dimarts', 'Dimecres', 'Dijous', 'Divendres'][i - 1]}</h3>
-            ${isToday ? `<span class="badge-avui">⭐ AVUI</span>` : ''}
+            ${isToday ? `<span class="badge-avui">⭐ AVUI</span>` : (isNextOnWeekend ? `<span class="badge-proper">👉 PROPER MENÚ</span>` : '')}
           </div>
           <span class="col-date">${dayDate.getDate()} ${MESOS[dayDate.getMonth()]}</span>
         </div>
@@ -1581,6 +1633,10 @@ function switchTab(tabId) {
 
 // Inicialització
 document.addEventListener('DOMContentLoaded', () => {
+  if (IS_WEEKEND_TODAY) {
+    const notice = document.getElementById('weekendNotice');
+    if (notice) notice.style.display = 'flex';
+  }
   renderWeekView();
   renderMonthView();
 });
